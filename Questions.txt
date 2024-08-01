@@ -1,0 +1,10 @@
+1) Java is Object Oriented Programming language
+2) Java supports Multiple Inheritance
+3) Spring boot is not Java Framework
+4) JDBC stands for Java Database Connectivity
+5) Interface can have methods with definition
+6) In inheritance, child class can access data members and member function of parent class
+7) Java does not support Primitive datatypes
+8) Servlet and JSP is used for web applicaton
+9) Multithreading is not used in java
+10) AWT stands for Abstract Window Toolkit
